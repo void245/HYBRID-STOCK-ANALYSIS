@@ -12,7 +12,7 @@ def run_data_fetch(symbol):
     # ==============================
     # API DETAILS
     # ==============================
-    API_KEY = "OOMSJDYHESFFOICS"
+    API_KEY = YOUR_API_KEY
     URL = "https://www.alphavantage.co/query"
 
     params = {
