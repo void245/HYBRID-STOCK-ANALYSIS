@@ -1,0 +1,13 @@
+{
+    "symbol": "NVDA",
+    "close_price": 177.19,
+    "MA20": 185.98,
+    "RSI": 41.1,
+    "signal": "SELL",
+    "risk_reward": {
+        "entry": 177.19,
+        "stop_loss": 171.88,
+        "target": 195.56,
+        "risk_reward": 3.46
+    }
+}

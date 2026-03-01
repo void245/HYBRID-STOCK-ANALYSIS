@@ -1,0 +1,13 @@
+{
+    "symbol": "TSLA",
+    "close_price": 402.51,
+    "MA20": 413.85,
+    "RSI": 44.7,
+    "signal": "SELL",
+    "risk_reward": {
+        "entry": 402.51,
+        "stop_loss": 397.21,
+        "target": 430.41,
+        "risk_reward": 5.26
+    }
+}
